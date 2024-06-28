@@ -3,5 +3,4 @@ I am Vinay Uniyal, a Solution Engineer from 🇮🇳 passionate about developing
 
 I mostly work with AWS, Jenkins, and Cloud based technologies. 🚀
 
-!https:www.docker.com
 
